@@ -32,6 +32,7 @@ use create_data_2_1.py if want to run with multiwoz2.1
 * --GPU: the number of gpu to use
 * --except_domain: hold out domain, choose one from [hotel, train, attraction, restaurant, taxi]
 * --slot_lang: slot description type, choose one from [none, human, naive, value, question, slottype]
+* Note: real batch_size = train_batch_size * GPU_number
 
 **Few-shot cross-domain**
 ```console
