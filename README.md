@@ -1,7 +1,7 @@
 # Zero-Shot-DST
 This repository includes the implementation of the **NAACL 2021** paper:
 
-**Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking**. 
+**Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking** [[PDF]](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf). 
 
 **Authors**: Zhaojiang Lin, Bing Liu, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Andrea Madotto, Eunjoon Cho, Rajen Subba
 
