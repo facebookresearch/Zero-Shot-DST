@@ -1,12 +1,7 @@
 # Zero-Shot-DST
-This repository includes the implementation of the **NAACL 2021** paper:
+This repository includes the implementation of the paper:
 
-**Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking** [[PDF]](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf). 
-
-**Authors**: Zhaojiang Lin, Bing Liu, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Andrea Madotto, Eunjoon Cho, Rajen Subba
-
-## Citations
-If you want to publish experimental results with our source code, please cite the following articles:
+[Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf). Zhaojiang Lin, Bing Liu, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Andrea Madotto, Eunjoon Cho, Rajen Subba. **NAACL 2021**
 <pre>
 @inproceedings{lin2021leveraging,
   title={Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking},
@@ -17,9 +12,12 @@ If you want to publish experimental results with our source code, please cite th
 }
 </pre>
 
+[Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf). Zhaojiang Lin, Bing Liu, Andrea Madotto, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Eunjoon Cho, Rajen Subba, Pascale Fung. **EMNLP 2021**
+
+
 
 ## Bug Report
 Feel free to create an issue or send email to zlinao@connect.ust.hk
 
 ## License
-The majority of Zero-Shot DST is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), however portions of the project are available under separate license terms: Transformers is licensed under the Apache 2.0 license; som-DST and MultiWoz are licensed under the MIT license; and license information for TRADE is available at https://github.com/jasonwu0731/trade-dst#license.
+The majority of Zero-Shot DST is licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), however portions of the project are available under separate license terms: Transformers and SGD are licensed under the Apache 2.0 license; som-DST and MultiWoz are licensed under the MIT license; and license information for TRADE is available at https://github.com/jasonwu0731/trade-dst#license.

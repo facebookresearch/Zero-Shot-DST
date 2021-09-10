@@ -1,0 +1,235 @@
+{
+    "hotel-pricerange": {
+        "description_human": "price budget of the hotel",
+        "values": [
+            "cheap",
+            "expensive",
+            "moderate",
+            "dontcare"
+        ],
+        "question": "what is the price range of the hotel or guesthouse that the user want?"
+    },
+    "hotel-type": {
+        "description_human": "what is the type of the hotel",
+        "values": [
+            "guesthouse",
+            "hotel"
+        ],
+        "question": "what is the type of the hotel that the user want?"
+    },
+    "hotel-parking": {
+        "description_human": "whether the hotel has parking",
+        "values": [
+            "no",
+            "yes",
+            "dontcare"
+        ],
+        "question": "does the user want to have parking?"
+    },
+    "hotel-book stay": {
+        "description_human": "length of stay at the hotel",
+        "values": [],
+        "question": "how many nights does user want to stay in hotel?"
+    },
+    "hotel-book day": {
+        "description_human": "day of the hotel booking",
+        "values": [
+            "friday",
+            "monday",
+            "saturday",
+            "sunday",
+            "thursday",
+            "tuesday",
+            "wednesday"
+        ],
+        "question": "what is the day for the hotel reservation?"
+    },
+    "hotel-book people": {
+        "description_human": "number of people for the hotel booking",
+        "values": [],
+        "question": "how many people for the hotel reservation?"
+    },
+    "hotel-area": {
+        "description_human": "area or place of the hotel",
+        "values": [
+            "centre",
+            "east",
+            "north",
+            "south",
+            "west",
+            "dontcare"
+        ],
+        "question": "what is the area of the hotel that the user want?"
+    },
+    "hotel-stars": {
+        "description_human": "star rating of the hotel",
+        "values": [],
+        "question": "how many stars of the hotel the user want?"
+    },
+    "hotel-internet": {
+        "description_human": "whether the hotel has internet",
+        "values": [
+            "no",
+            "yes",
+            "dontcare"
+        ],
+        "question": "does the user want to have internet, wifi?"
+    },
+    "train-destination": {
+        "description_human": "destination of the train",
+        "values": [],
+        "question": "where does the train going to?"
+    },
+    "train-day": {
+        "description_human": "day of the train",
+        "values": [
+            "friday",
+            "monday",
+            "saturday",
+            "sunday",
+            "thursday",
+            "tuesday",
+            "wednesday",
+            "dontcare"
+        ],
+        "question": "what is the day of the train that the user is interested in?"
+    },
+    "train-departure": {
+        "description_human": "departure location of the train",
+        "values": [],
+        "question": "where does the train leave from?"
+    },
+    "train-arriveby": {
+        "description_human": "arrival time of the train",
+        "values": [],
+        "question": "what is the time that train arrive by?"
+    },
+    "train-book people": {
+        "description_human": "how many train tickets you need",
+        "values": [],
+        "question": "what is the number of people for the train booking?"
+    },
+    "train-leaveat": {
+        "description_human": "leaving time for the train",
+        "values": [],
+        "question": "what is the time that train leave at?"
+    },
+    "attraction-area": {
+        "description_human": "area to search for attractions",
+        "values": [
+            "cambridge",
+            "centre",
+            "east",
+            "north",
+            "south",
+            "west",
+            "dontcare"
+        ],
+        "question": "what is the area of the attraction that the user is interested in?"
+    },
+    "restaurant-food": {
+        "description_human": "the cuisine of the restaurant you are looking for",
+        "values": [],
+        "question": "what kind of food does user want to eat in restaurant?"
+    },
+    "restaurant-pricerange": {
+        "description_human": "price budget for the restaurant",
+        "values": [
+            "cheap",
+            "expensive",
+            "moderate",
+            "dontcare"
+        ],
+        "question": "what is the price range of the restaurant that the user is interested in?"
+    },
+    "restaurant-area": {
+        "description_human": "area or place of the restaurant",
+        "values": [
+            "centre",
+            "east",
+            "north",
+            "south",
+            "west"
+        ],
+        "question": "what is the area of the restaurant that the user is interested in?"
+    },
+    "attraction-name": {
+        "description_human": "name of the attraction",
+        "values": [],
+        "question": "what is the name of the attraction that the user is interested in?"
+    },
+    "restaurant-name": {
+        "description_human": "name of the restaurant",
+        "values": [],
+        "question": "what is the name of the restaurant that the user is interested in?"
+    },
+    "attraction-type": {
+        "description_human": "type of the attraction",
+        "values": [
+            "architecture",
+            "boat",
+            "church",
+            "cinema",
+            "college",
+            "concerthall",
+            "entertainment",
+            "hotspot",
+            "multiple sports",
+            "museum",
+            "nightclub",
+            "park",
+            "special",
+            "swimmingpool",
+            "theatre"
+        ],
+        "question": "what is the type of the attraction that the user is interested in?"
+    },
+    "hotel-name": {
+        "description_human": "name of the hotel",
+        "values": [],
+        "question": "what is the name of the hotel that the user is interested in?"
+    },
+    "taxi-leaveat": {
+        "description_human": "leaving time of taxi",
+        "values": [],
+        "question": "what is the time that taxi leave at?"
+    },
+    "taxi-destination": {
+        "description_human": "destination of taxi",
+        "values": [],
+        "question": "where does the taxi going to?"
+    },
+    "taxi-departure": {
+        "description_human": "departure location of taxi",
+        "values": [],
+        "question": "where does the taxi leave from?"
+    },
+    "restaurant-book time": {
+        "description_human": "time of the restaurant booking",
+        "values": [],
+        "question": "what is the book time of the restaurant that the user in interested in?"
+    },
+    "restaurant-book day": {
+        "description_human": "day of the restaurant booking",
+        "values": [
+            "friday",
+            "monday",
+            "saturday",
+            "sunday",
+            "thursday",
+            "tuesday",
+            "wednesday"
+        ],
+        "question": "what is the day for the restaurant reservation?"
+    },
+    "restaurant-book people": {
+        "description_human": "how many people for the restaurant reservation",
+        "values": [],
+        "question": "how many people for the restaurant reservation?"
+    },
+    "taxi-arriveby": {
+        "description_human": "arrival time of taxi",
+        "values": [],
+        "question": "what is the time that taxi arrive by?"
+    }
+}
