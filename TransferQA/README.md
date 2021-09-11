@@ -49,3 +49,6 @@ Check the packages needed or simply run the command
 * --model_checkpoint: saved checkpoint of zero-shot model
 * --fewshot: ratio of in-domain data, choose one from [0.01, 0.05, 0.1]
 * --only_domain: test-domain, choose one from [hotel, train, attraction, restaurant, taxi]
+
+**SGD Evaluation**
+The model prediction on SGD can be evaluted by using this [script](https://github.com/google-research/google-research/tree/master/schema_guided_dst).
