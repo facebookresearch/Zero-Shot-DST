@@ -12,9 +12,15 @@ This repository includes the implementation of the paper:
 }
 </pre>
 
-[Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://www.aclweb.org/anthology/2021.naacl-main.448.pdf). Zhaojiang Lin, Bing Liu, Andrea Madotto, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Eunjoon Cho, Rajen Subba, Pascale Fung. **EMNLP 2021**
-
-
+[Zero-Shot Dialogue State Tracking via Cross-Task Transfer](https://arxiv.org/pdf/2109.04655.pdf). Zhaojiang Lin, Bing Liu, Andrea Madotto, Seungwhan Moon, Paul Crook, Zhenpeng Zhou, Zhiguang Wang, Zhou Yu, Eunjoon Cho, Rajen Subba, Pascale Fung. **EMNLP 2021**
+<pre>
+@article{lin2021zero,
+  title={Zero-Shot Dialogue State Tracking via Cross-Task Transfer},
+  author={Lin, Zhaojiang and Liu, Bing and Madotto, Andrea and Moon, Seungwhan and Crook, Paul and Zhou, Zhenpeng and Wang, Zhiguang and Yu, Zhou and Cho, Eunjoon and Subba, Rajen and others},
+  journal={arXiv preprint arXiv:2109.04655},
+  year={2021}
+}
+</pre>
 
 ## Bug Report
 Feel free to create an issue or send email to zlinao@connect.ust.hk
